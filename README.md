@@ -2,7 +2,7 @@
 
 ---
 
-# AI-Powered Document Knowledge Extractor
+# LLM-Powered Document Knowledge Extractor
 
 ### 🌟 Project Overview
 This AI-driven project enables users to:
